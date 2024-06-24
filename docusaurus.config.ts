@@ -39,7 +39,7 @@ const config: Config = {
           include: [
             '**/*.md', // Include all markdown files'**/*.mdx', // Include all MDX files
           ],
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://mysampledocusaurus.netlify.app/',
           includeCurrentVersion: true, // Include the current version
           versions: {
             current: {
